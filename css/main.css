@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap");
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #cacaca;
+  text-decoration: none;
+}
+
+.s1 {
+  background: url("../img/wallpaper1.jpg");
+  background-size: cover;
+}
+
+.s1 h1 {
+  text-align: center;
+  color: white;
+}
+
+.s2 {
+  background-image: -webkit-gradient(linear, left top, right top, from(#945CF3), color-stop(#7A5EF1), to(#6361F0));
+  background-image: linear-gradient(to right, #945CF3, #7A5EF1, #6361F0);
+  background-size: cover;
+}
+
+.s2 h1 {
+  text-align: center;
+  color: white;
+}
+
+.s1a {
+  background: url(/img/playpasnolimits.jpg);
+  background-size: cover;
+}
+
+.s1a h1 {
+  color: white;
+  font-size: 4rem;
+  text-align: left;
+  position: absolute;
+  left: 5%;
+  top: 5%;
+}
+
+.s2a {
+  background-image: -webkit-gradient(linear, left top, right top, from(#033BCC), color-stop(#012B91), color-stop(#03257F), to(#031E65));
+  background-image: linear-gradient(to right, #033BCC, #012B91, #03257F, #031E65);
+  background-size: cover;
+}
+
+.s2a h1 {
+  font-size: 4rem;
+  text-align: center;
+  color: white;
+}
+
+.s3 {
+  background-image: -webkit-gradient(linear, left top, right top, from(#945CF3), color-stop(#7A5EF1), to(#6361F0));
+  background-image: linear-gradient(to right, #945CF3, #7A5EF1, #6361F0);
+  background-size: cover;
+}
+
+.s3 h1 {
+  text-align: center;
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */

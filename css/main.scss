@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+h1 {
+    font-family: 'Montserrat', sans-serif   ;
+    
+}
+
+a { color: rgb(202, 202, 202); text-decoration: none;} 
+
+
+.s1 {
+    background: url('../img/wallpaper1.jpg');
+    background-size: cover;
+    h1 {text-align: center;
+        color: white;
+    }
+}
+
+.s2 {
+    background-image: linear-gradient(to right, #945CF3 , #7A5EF1, #6361F0);
+    background-size: cover;
+    h1 {text-align: center;
+        color: white;
+    }
+}
+
+.s1a {
+    background:url(/img/playpasnolimits.jpg);
+    background-size: cover;
+    h1 {
+        color: white;
+        font-size: 4rem;
+        text-align: left;
+        position: absolute;
+        left: 5%;
+        top: 5%;
+    }
+}
+
+.s2a {
+    background-image: linear-gradient(to right, #033BCC , #012B91, #03257F, #031E65);
+    background-size: cover;
+    h1 {
+        font-size: 4rem;
+        text-align: center;
+        color: white;
+    }
+}
+
+.s3 {
+    background-image: linear-gradient(to right, #945CF3 , #7A5EF1, #6361F0);
+    background-size: cover;
+    h1 {text-align: center;
+        color: white;
+    }
+}
