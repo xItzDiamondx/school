@@ -51,6 +51,8 @@ a {
 
 .s2a h1 {
   font-size: 4rem;
+  text-align: left;
+  margin-right: 4rem;
   text-align: center;
   color: white;
 }
@@ -64,5 +66,9 @@ a {
 .s3 h1 {
   text-align: center;
   color: white;
+}
+
+span {
+  background: white !important;
 }
 /*# sourceMappingURL=main.css.map */

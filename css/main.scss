@@ -42,6 +42,8 @@ a { color: rgb(202, 202, 202); text-decoration: none;}
     background-size: cover;
     h1 {
         font-size: 4rem;
+        text-align: left;
+        margin-right: 4rem;
         text-align: center;
         color: white;
     }
@@ -53,4 +55,7 @@ a { color: rgb(202, 202, 202); text-decoration: none;}
     h1 {text-align: center;
         color: white;
     }
+}
+span {
+    background: white !important;
 }
